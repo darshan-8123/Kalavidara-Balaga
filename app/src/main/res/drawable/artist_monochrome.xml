@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2026 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="232"
+    android:viewportHeight="203.0625">
+  <group android:scaleX="0.46"
+      android:scaleY="0.40262392"
+      android:translateX="62.64"
+      android:translateY="60.65234">
+    <group android:translateY="158.48438">
+      <path android:pathData="M10.6875,-103.078125L42.546875,-103.078125L42.546875,-64.125L75.9375,-103.078125L118.265625,-103.078125L80.71875,-64.203125L119.953125,-0L80.71875,-0L59,-42.40625L42.546875,-25.171875L42.546875,-0L10.6875,-0L10.6875,-103.078125Z"
+          android:fillColor="#000000"/>
+      <path android:pathData="M130.625,-103.078125L190.25,-103.078125Q205.15625,-103.078125,213.125,-95.6875Q221.10938,-88.3125,221.10938,-77.421875Q221.10938,-68.28125,215.42188,-61.734375Q211.625,-57.375,204.3125,-54.84375Q215.42188,-52.171875,220.65625,-45.671875Q225.89062,-39.171875,225.89062,-29.328125Q225.89062,-21.3125,222.15625,-14.90625Q218.4375,-8.515625,211.96875,-4.78125Q207.96875,-2.46875,199.875,-1.40625Q189.125,0,185.60938,0L130.625,0L130.625,-103.078125ZM162.75,-62.65625L176.60938,-62.65625Q184.0625,-62.65625,186.96875,-65.21875Q189.89062,-67.78125,189.89062,-72.640625Q189.89062,-77.140625,186.96875,-79.671875Q184.0625,-82.203125,176.8125,-82.203125L162.75,-82.203125L162.75,-62.65625ZM162.75,-22.15625L179,-22.15625Q187.21875,-22.15625,190.59375,-25.0625Q193.96875,-27.984375,193.96875,-32.90625Q193.96875,-37.484375,190.625,-40.25Q187.29688,-43.03125,178.92188,-43.03125L162.75,-43.03125L162.75,-22.15625Z"
+          android:fillColor="#000000"/>
+    </group>
+  </group>
+</vector>
